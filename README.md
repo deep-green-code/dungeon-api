@@ -6,7 +6,7 @@ Symfony project used to quickly setup a little game to exploit while streaming
 
 Docker and docker-compose are required
 
-Simply type `docker-coposer -f "docker-compose.dev.yml" up -d` in terminal to startup the dev environnement.
+Simply type `docker-compose -f "docker-compose.dev.yml" up -d` in terminal to startup the dev environnement.
 
 ## Ressources
 
